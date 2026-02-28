@@ -1,0 +1,50 @@
+# ─── Python ──────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# ─── Virtual Environment ────────────────────────────────────
+venv/
+.venv/
+env/
+.env/
+
+# ─── Environment Variables ──────────────────────────────────
+.env
+.env.local
+
+# ─── PyInstaller Build ──────────────────────────────────────
+build/
+dist/
+*.spec
+*.exe
+
+# ─── IDE / Editor ───────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+
+# ─── OS Files ───────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ─── Application Cache ─────────────────────────────────────
+yt_cache/
+*.mp4
+*.mkv
+*.webm
+*.m4a
+output.*
+
+# ─── Logs ───────────────────────────────────────────────────
+*.log
+
+# ─── Misc ───────────────────────────────────────────────────
+*.bak
+*.tmp

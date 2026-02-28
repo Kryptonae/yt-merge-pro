@@ -1,0 +1,7 @@
+# ─── Core Dependencies ───────────────────────────────────────
+yt-dlp>=2024.1.0               # YouTube video downloading
+customtkinter>=5.2.0           # Modern dark-themed GUI framework
+Pillow>=10.0.0                 # Image processing (thumbnails)
+
+# ─── Build (optional) ───────────────────────────────────────
+# pip install pyinstaller       # For building standalone .exe
