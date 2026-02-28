@@ -39,12 +39,9 @@
 
 <div align="center">
 
-> Screenshots coming soon — the app features a modern dark-themed interface with a clean layout.
+![YT Merge Pro — Main Window](screenshots/main-window.png)
 
-<!-- 
-![Main Window](screenshots/main-window.png)
-![Playlist Import](screenshots/playlist-dialog.png)
--->
+*Main window with dark theme — URL input, video queue, settings, and log viewer*
 
 </div>
 
