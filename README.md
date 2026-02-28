@@ -94,7 +94,7 @@ yt_merge/
 ### Step 1 — Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/yt-merge-pro.git
+git clone https://github.com/Kryptonae/yt-merge-pro.git
 cd yt-merge-pro
 ```
 
